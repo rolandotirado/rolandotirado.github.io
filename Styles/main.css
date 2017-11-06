@@ -32,11 +32,11 @@ img{
 	padding: 50px;
 	img-align:right;
 }
-ul .floatleft{
+ul #floatleft{
 	float: left;
 	width: 20%;
 }
-img .floatright{
+img #floatright{
 	float:right;
 	width: 20%;
 	
