@@ -29,12 +29,12 @@ a{
 	color:#EB0C09;
 	padding:20px;
 	text-align:bottom;
-	font size:10px;
+	font-size:10px;
 	font-family: 'Indie Flower', cursive;
 }
 	
 img{
 	padding: 50px;
-	img-align:center;
+	img-align: center;
 	width: 30%;
 }
