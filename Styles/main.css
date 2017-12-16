@@ -29,12 +29,21 @@ a{
 	color:#EB0C09;
 	padding:20px;
 	text-align:bottom;
-	font-size:10px;
+	font size:10px;
 	font-family: 'Indie Flower', cursive;
 }
 	
 img{
 	padding: 50px;
-	img-align: center;
+	img-align:right;
 	width: 30%;
+}
+ul.floatleft{
+	float: left;
+	width: 20%;
+}
+img.floatright{
+	float: right;
+	width: 30%;
+	
 }
