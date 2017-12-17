@@ -35,15 +35,9 @@ a{
 	
 img{
 	padding: 50px;
-	img-align:right;
 	width: 30%;
 }
 ul.floatleft{
 	float: left;
 	width: 20%;
-}
-img.floatright{
-	float: right;
-	width: 30%;
-	
 }
