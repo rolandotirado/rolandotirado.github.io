@@ -36,8 +36,6 @@ a{
 img{
 	padding: 50px;
 	width: 30%;
+	float: center;
 }
-ul.floatleft{
-	float: left;
-	width: 20%;
-}
+
